@@ -1,0 +1,9 @@
+com\stv\design\designpages\Page.class
+com\stv\design\designtests\BasicTest.class
+com\stv\factory\factorypages\FactoryPage.class
+com\stv\factory\factorytests\BasicFactoryTest.class
+com\stv\framework\core\utils\Waiters.class
+com\stv\factory\factorytests\MainFactoryTest.class
+com\stv\design\designpages\MainPage.class
+com\stv\design\designtests\MainTest.class
+com\stv\factory\factorypages\MainFactoryPage.class
